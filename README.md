@@ -11,8 +11,6 @@
 
  📫 How to reach me **yeganexelilova6466@gmail.com**
 
- ⚡ Fun fact: **Outside of coding, I enjoy photography!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yegana-khalilova-2a229023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yegana-khalilova-2a229023a/" height="30" width="40" /></a>
