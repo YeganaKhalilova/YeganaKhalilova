@@ -7,7 +7,7 @@
 
  🔭 I’m currently working on ["Tech-Evo" e-commerce website](https://github.com/TechEvo-Web/TechEvoBackend)
 
- 🌱 I am currently learning **Kafka, Kubernetes**
+ 🌱 I am currently learning **Kafka, Kibana**
 
  📫 How to reach me **yeganexelilova6466@gmail.com**
 
