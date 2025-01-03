@@ -5,10 +5,6 @@
 <h3 align="center">A Junior Software Engineer from Azerbaijan</h3>
  <p align="left">I'm a Junior Software Engineer with a strong foundation in Java and experience building efficient applications. I also have hands-on experience with Docker, SQL, and Redis, and am comfortable working with HTML, CSS, and React.</p>
 
- 🔭 I’m currently working on ["Tech-Evo" e-commerce website](https://github.com/TechEvo-Web/TechEvoBackend)
-
- 🌱 I am currently learning **Kafka, Kibana**
-
  📫 How to reach me **yeganexelilova6466@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
