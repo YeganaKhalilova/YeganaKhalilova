@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JlY2dvcnE1MGNmbmp1NTJzampzNm05bGQ4amc0ZWU0ZjFrZm43NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" alt="Cover GIF" width="500"/>
 </div>
 <h1 align="center">Hi 👋, I'm Yegana!</h1>
-<h3 align="center">A Junior Software Engineer from Azerbaijan</h3>
+<h3 align="center">A Junior Software Engineer</h3>
  <p align="left">I'm a Junior Software Engineer with a strong foundation in Java and experience building efficient applications. I also have hands-on experience with Docker, SQL, and Redis, and am comfortable working with HTML, CSS, and React.</p>
 
  📫 How to reach me **yeganexelilova6466@gmail.com**
